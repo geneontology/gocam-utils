@@ -1,5 +1,5 @@
 {
-  "name": "gocams-utils",
+  "name": "@geneontology/gocams-utils",
   "version": "0.0.1",
   "description": "Library for general data access and update of GO-CAMs (www.geneontology.org/gocam)",
   "main": "gocams-utils.js",
