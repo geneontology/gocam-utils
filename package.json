@@ -1,0 +1,26 @@
+{
+  "name": "gocams-utils",
+  "version": "0.0.1",
+  "description": "Library for general data access and update of GO-CAMs (www.geneontology.org/gocam)",
+  "main": "gocams-utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geneontology/gocams-utils.git"
+  },
+  "keywords": [
+    "GO-CAM",
+    "CAM",
+    "JavaScript",
+    "geneontology",
+    "GO"
+  ],
+  "author": "Laurent-Philippe Albou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geneontology/gocams-utils/issues"
+  },
+  "homepage": "https://github.com/geneontology/gocams-utils#readme"
+}
